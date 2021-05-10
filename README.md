@@ -11,7 +11,7 @@
 
 🌱 I’m a brazilian developer coding with ReactJS, ReactNative and somethimes NodeJS
 
-👨🏻‍💻 I'm currently working as an Intern at LubySoftware (https://www.luby.com.br/)
+👨🏻‍💻 I'm currently working as an Intern
 
 📓  I'm currently also working on my Final Paper at UFF (http://www.uff.br/) in Brazil to graduate in Computer Science
 
