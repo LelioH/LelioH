@@ -2,7 +2,7 @@
 
 💼- I’m currently working at:
 <br/>
-[![Luby Badge](https://www.luby.com.br/wp-content/uploads/2020/05/Logo_Luby.png)](https://www.luby.com.br/)
+[![Luby Badge](https://www.luby.com.br/wp-content/uploads/2020/05/Logo-01-160x52.png)](https://www.luby.com.br/)
 <br/>
 
 📫- <b>How to reach me:</b> <br/>
@@ -22,6 +22,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-[![Abel13's github stats](https://github-readme-stats.vercel.app/api?username=lelioh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![LelioH's github stats](https://github-readme-stats.vercel.app/api?username=lelioh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelioh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelioh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
