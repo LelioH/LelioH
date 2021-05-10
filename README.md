@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**LelioH/LelioH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼- I’m currently working at:
+<br/>
+[![Luby Badge](https://www.luby.com.br/wp-content/uploads/2020/05/Logo_Luby.png)](https://www.luby.com.br/)
+<br/>
 
-Here are some ideas to get you started:
+📫- <b>How to reach me:</b> <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+[![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/helio-almeida-b832a3160/)
+
+🌱 I’m a brazilian developer coding with ReactJS, ReactNative and somethimes NodeJS
+
+👨🏻‍💻 I'm currently working as an Intern at LubySoftware (https://www.luby.com.br/)
+
+📓  I'm currently also working on my Final Paper at UFF (http://www.uff.br/) in Brazil to graduate in Computer Science
+
+<!--- 
+ 👯 I’m looking to collaborate on ...
+ 🤔 I’m looking for help with ...
+ 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
+
+[![Abel13's github stats](https://github-readme-stats.vercel.app/api?username=lelioh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelioh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
