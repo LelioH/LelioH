@@ -22,6 +22,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-[![LelioH's github stats](https://github-readme-stats.vercel.app/api?username=lelioh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![LelioH's github stats](https://github-readme-stats.vercel.app/api?username=lelioh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelioh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
