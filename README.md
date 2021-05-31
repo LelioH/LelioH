@@ -9,7 +9,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/helio-almeida-b832a3160/)
 
-🌱 I’m a brazilian developer coding with ReactJS, ReactNative and somethimes NodeJS
+🌱 I’m a brazilian developer coding with ReactJS, ReactNative and sometimes NodeJS
 
 👨🏻‍💻 I'm currently working as an Intern
 
