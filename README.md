@@ -9,11 +9,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/helio-almeida-b832a3160/)
 
-🌱 I’m a brazilian developer coding with ReactJS, ReactNative and sometimes NodeJS
+🌱 Brazilian developer coding with ReactJS, ReactNative and sometimes NodeJS
 
-👨🏻‍💻 I'm currently working as an Intern
+👨🏻‍💻 Currently working as a Junior Developer
 
-📓  I'm currently also working on my Final Paper at UFF (http://www.uff.br/) in Brazil to graduate in Computer Science
+📓 Also working on my Final Paper at UFF (http://www.uff.br/) in Brazil to graduate in Computer Science
 
 <!--- 
  👯 I’m looking to collaborate on ...
