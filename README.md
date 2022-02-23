@@ -11,7 +11,7 @@
 
 🌱 Brazilian developer coding with ReactJS, ReactNative and sometimes NodeJS
 
-👨🏻‍💻 Currently working as a Junior Developer
+👨🏻‍💻 Currently working as a FrontEnd Developer
 
 📓 Also working on my Final Paper at UFF (http://www.uff.br/) in Brazil to graduate in Computer Science
 
