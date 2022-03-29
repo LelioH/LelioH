@@ -13,7 +13,7 @@
 
 👨🏻‍💻 Currently working as a FrontEnd Developer
 
-📓 Also working on my Final Paper at UFF (http://www.uff.br/) in Brazil to graduate in Computer Science
+📓 Also working on my Final Paper at UFF (http://www.uff.br/) to graduate in Computer Science
 
 <!--- 
  👯 I’m looking to collaborate on ...
