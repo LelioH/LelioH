@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💼 - Currently working at as Frontend Developer:
+💼 - Currently working as Frontend Developer at:
 <br/><br/>
 [![Meetime Badge](https://meetime.com.br/wp-content/uploads/2021/07/logo-meetime.png)](https://www.meetime.com.br/)
 <br/>
