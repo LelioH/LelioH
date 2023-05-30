@@ -11,5 +11,4 @@
 
 📓 - Also working on my Final Paper at UFF (http://www.uff.br/) to graduate in Computer Science
 
-#### STREAKS
-[![Helio's github streak](https://github-readme-streak-stats.herokuapp.com/?user=LelioH&theme=blue-green)](https://github.com/LelioH#streaks)
+
