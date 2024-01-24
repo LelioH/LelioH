@@ -9,6 +9,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/helio-almeida-b832a3160/)
 
-📓 - Also working on my Final Paper at UFF (http://www.uff.br/) to graduate in Computer Science
+📓 - Bachelor's degree in Computer Science from the Federal Fluminense University (UFF) in Brazil.
 
 
