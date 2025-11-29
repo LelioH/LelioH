@@ -1,12 +1,20 @@
-### Hi there 👋
+# Hélio Almeida
 
-💼 - Currently working as Frontend Developer
-<br/>
+Senior Software Engineer at Cielo.
+I build scalable systems using **Java**, **Spring Boot**, **TypeScript**, and **Angular**.
 
-📫 - <b>How to reach me:</b> <br/>
+Focused on clean architecture, maintainability, and high-quality code across distributed systems.
 
-[![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/helio-almeida-b832a3160/)
+---
 
-📓 - Bachelor's degree in Computer Science from the Federal Fluminense University (UFF) in Brazil.
+### Tech Stack
+**Backend:** Java (Spring Boot), Node.js  
+**Frontend:** Angular, React, TypeScript
+**Databases:** MongoDB, PostgreSQL  
+**Architecture:** Microservices, Hexagonal Architecture, BFF  
 
+---
 
+### Contact
+[LinkedIn](https://www.linkedin.com/in/helio-almeida-b832a3160/)  
+hdasn@icloud.com
