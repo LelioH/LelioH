@@ -1,20 +1,5 @@
-# Hélio Almeida
+### Hey, welcome!
 
-Senior Software Engineer at Cielo.
-I build scalable systems using **Java**, **Spring Boot**, **TypeScript**, and **Angular**.
+- 💳 Tech Lead at [Cielo](https://www.cielo.com.br/), working on **Pix** — Brazil's instant payment system
 
-Focused on clean architecture, maintainability, and high-quality code across distributed systems.
-
----
-
-### Tech Stack
-**Backend:** Java (Spring Boot), Node.js  
-**Frontend:** Angular, React, TypeScript
-**Databases:** MongoDB, PostgreSQL  
-**Architecture:** Microservices, Hexagonal Architecture, BFF  
-
----
-
-### Contact
-[LinkedIn](https://www.linkedin.com/in/helio-almeida-b832a3160/)  
-hdasn@icloud.com
+- ☕ [LinkedIn](https://www.linkedin.com/in/helio-almeida) · hdasn@icloud.com
